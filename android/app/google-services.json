@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519380964416",
+    "project_id": "scannary-e5746",
+    "storage_bucket": "scannary-e5746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519380964416:android:10b53e9e6d34d852d4bba5",
+        "android_client_info": {
+          "package_name": "com.example.scannary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519380964416-qj57gu9138sqk4lon0obsv0l22n9p7hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scannary_app",
+            "certificate_hash": "f3a05d86088fa94ab7ce0f69b72c75e8945a6b8c"
+          }
+        },
+        {
+          "client_id": "519380964416-rm8hqt3srrvpmrabrg15mqaacsg2p3l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4qXYj5kaC1pqvMAh3peoQG07WQQQy_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519380964416-rm8hqt3srrvpmrabrg15mqaacsg2p3l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
